@@ -1,1 +1,7 @@
-| Documentation  | https://cip-core.github.io/geodesic/           | Check out documention              |
++--------------------------------------------------------------------------------------------+
+| Cloud Innovation Platform - Core Platform                                                  |
++--------------------------------------------------------------------------------------------+
+| Platform status         | Nothing to report, all services up and running as expected       |
++--------------------------------------------------------------------------------------------+
+| Geodesic Documentation  | https://cip-core.github.io/geodesic/    | Check out documention  |
++--------------------------------------------------------------------------------------------+
